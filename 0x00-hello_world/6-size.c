@@ -5,17 +5,6 @@
  */
 int main(void)
 {
-	int;
-
-	long int;
-
-	float;
-
-	char;
-
-	long long int;
-
-
 	printf("size of int: %zu bytes\n", sizeof(int));
 	printf("size of double: %zu bytes\n", sizeof(long int));
 	printf("size of float: %zu bytes\n", sizeof(float));
