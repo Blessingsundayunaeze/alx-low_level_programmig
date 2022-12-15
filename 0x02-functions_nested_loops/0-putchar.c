@@ -2,8 +2,8 @@
 #define MAXSTRING 80
 
 /**
- * main - printing putchar
- * Return - Success
+ * main - printing putchar and new line
+ * Return - Always 0
  */
 int main(void)
 {
